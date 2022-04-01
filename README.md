@@ -1,2 +1,2 @@
 # Code-Translator
- Code Translator written on C#
+ Code Translator written in C#
